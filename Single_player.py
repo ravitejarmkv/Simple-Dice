@@ -9,7 +9,7 @@ while roll_again == "y" or roll_again == 'yes':
     print([s])
     roll_again = input("Do you want to roll again? ")
     print("Loading....")
-    time.sleep(3)
+    time.sleep(1)
     
 print("Sum of rolled numbers: ", sum(res))
 print("rolled  numbers", res)
