@@ -14,4 +14,3 @@ while roll_again == "y" or roll_again == 'yes':
 print("Sum of rolled numbers: ", sum(res))
 print("rolled  numbers", res)
 print("game has end!")
-print("........")
