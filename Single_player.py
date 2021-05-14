@@ -12,5 +12,5 @@ while roll_again == "y" or roll_again == 'yes':
     time.sleep(1)
     
 print("Sum of rolled numbers: ", sum(res))
-print("rolled  numbers", res)
+print("Your  numbers", res)
 print("game has end!")
