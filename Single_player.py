@@ -1,4 +1,5 @@
 import random
+# pip install random
 
 roll_again = input("Do you want to roll? ")
 res = []
